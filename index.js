@@ -3,4 +3,6 @@ const name = "Avril";
 
 function add(){
     add= a+b;
+    console.log("add");
 }
+
